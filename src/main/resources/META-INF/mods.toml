@@ -1,0 +1,22 @@
+
+    modLoader="javafml"
+    loaderVersion="${loader_version_range}"
+    license="${mod_license}"
+[[mods]]
+    modId="moltenmetals"
+    version="1.0.0"
+    displayName="Create: Molten Metals"
+    authors="Nazaru"
+    description='''Adds molten metals and recipies to Create'''
+[[dependencies.moltenmetals]]
+    modId="forge"
+    mandatory=true
+    versionRange="${forge_version_range}"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.moltenmetals]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

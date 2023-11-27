@@ -1,0 +1,10 @@
+{
+  "comments": "Credit to the Create Enchantment Industry team, For some reason the fluids didn't want to work properly",
+  "sources": [
+    {
+      "type": "directory",
+      "source": "fluid",
+      "prefix": "fluid/"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "item.moltenmetals.molten_iron_bucket": "Bucket of Molten Iron",
+  "item.moltenmetals.molten_copper_bucket": "Bucket of Molten Copper",
+  "item.moltenmetals.molten_gold_bucket": "Bucket of Molten Gold",
+  "item.moltenmetals.molten_zinc_bucket": "Bucket of Molten Zinc",
+  "item.moltenmetals.molten_brass_bucket": "Bucket of Molten Brass",
+
+  "item.moltenmetals.nugget_wax_cast": "Wax Cast Nugget",
+  "item.moltenmetals.ingot_wax_cast": "Wax Cast Ingot",
+  "item.moltenmetals.block_wax_cast": "Wax Cast Block",
+  "item.moltenmetals.wax_cast_ball": "Wax Cast Ball",
+
+  "item.moltenmetals.lava_brownie": "Lava Brownie (UNUSED)",
+
+  "itemGroup.moltenmetals": "Create: Molten Metals",
+
+  "fluid.moltenmetals.molten_iron": "Molten Iron",
+  "fluid.moltenmetals.molten_copper": "Molten Copper",
+  "fluid.moltenmetals.molten_gold": "Molten Gold",
+  "fluid.moltenmetals.molten_zinc": "Molten Zinc",
+  "fluid.moltenmetals.molten_brass": "Molten Brass"
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "moltenmetals:molten_iron",
+    "moltenmetals:molten_gold",
+    "moltenmetals:molten_copper",
+    "moltenmetals:molten_brass",
+    "moltenmetals:molten_zinc"
+  ]
+}
